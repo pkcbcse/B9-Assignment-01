@@ -390,11 +390,12 @@ height: 100%;
 }
 
 .subscription{
-  justify-content: space-between;
-display: flex;
-flex-direction: row;
-align-items: baseline;
-height: 100%
+   width: 17%;
+    border: none;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    margin-top: 30px;
+    
 }
 
 .btn-subscribe{
